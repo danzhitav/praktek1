@@ -1,6 +1,6 @@
-print("Testttttttt")
+print("SHABABYE")
 
-print("teststststst")
+print("Lord Danu Ganteng")
 
 
 a = 2
